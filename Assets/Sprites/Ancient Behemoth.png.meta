@@ -1,0 +1,1883 @@
+fileFormatVersion: 2
+guid: 7b6daf7efb78e7f4782cc7771dc1841c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7692847534170085846
+    second: Ancient Behemoth_0
+  - first:
+      213: -4778136792269948865
+    second: Ancient Behemoth_1
+  - first:
+      213: -8109147322775207526
+    second: Ancient Behemoth_2
+  - first:
+      213: 6105458037011373567
+    second: Ancient Behemoth_3
+  - first:
+      213: -7860458777915550650
+    second: Ancient Behemoth_4
+  - first:
+      213: -7794788593687069242
+    second: Ancient Behemoth_5
+  - first:
+      213: -6021883334831246939
+    second: Ancient Behemoth_6
+  - first:
+      213: 5884752221458111437
+    second: Ancient Behemoth_7
+  - first:
+      213: 2944295935506742456
+    second: Ancient Behemoth_8
+  - first:
+      213: -6171339661904123556
+    second: Ancient Behemoth_9
+  - first:
+      213: 3985467780797269280
+    second: Ancient Behemoth_10
+  - first:
+      213: -1556884047725603690
+    second: Ancient Behemoth_11
+  - first:
+      213: -5973462984516863481
+    second: Ancient Behemoth_12
+  - first:
+      213: -5424891717993801926
+    second: Ancient Behemoth_13
+  - first:
+      213: 7004753112929138002
+    second: Ancient Behemoth_14
+  - first:
+      213: 5496478440489045534
+    second: Ancient Behemoth_15
+  - first:
+      213: -9084471274465187186
+    second: Ancient Behemoth_16
+  - first:
+      213: 2590956724774424855
+    second: Ancient Behemoth_17
+  - first:
+      213: -7010311039887584362
+    second: Ancient Behemoth_18
+  - first:
+      213: -8980776960235356822
+    second: Ancient Behemoth_19
+  - first:
+      213: 428963312355679230
+    second: Ancient Behemoth_20
+  - first:
+      213: 227665645761932650
+    second: Ancient Behemoth_21
+  - first:
+      213: 2136338180090931372
+    second: Ancient Behemoth_22
+  - first:
+      213: 6171179341707306150
+    second: Ancient Behemoth_23
+  - first:
+      213: 2914542995289311215
+    second: Ancient Behemoth_24
+  - first:
+      213: -597015959191706077
+    second: Ancient Behemoth_25
+  - first:
+      213: -2404783488798514906
+    second: Ancient Behemoth_26
+  - first:
+      213: -845771254836553087
+    second: Ancient Behemoth_27
+  - first:
+      213: -1048154040483142987
+    second: Ancient Behemoth_28
+  - first:
+      213: -4973967959732618076
+    second: Ancient Behemoth_29
+  - first:
+      213: 735513974609202731
+    second: Ancient Behemoth_30
+  - first:
+      213: -2915981640466306611
+    second: Ancient Behemoth_31
+  - first:
+      213: -3794723948548669196
+    second: Ancient Behemoth_32
+  - first:
+      213: -4387433037893252169
+    second: Ancient Behemoth_33
+  - first:
+      213: -1496842659987571139
+    second: Ancient Behemoth_34
+  - first:
+      213: -1989264043233611389
+    second: Ancient Behemoth_35
+  - first:
+      213: 138119570382121028
+    second: Ancient Behemoth_36
+  - first:
+      213: -8952736857493959375
+    second: Ancient Behemoth_37
+  - first:
+      213: -2177151398076354006
+    second: Ancient Behemoth_38
+  - first:
+      213: 4296449820147053267
+    second: Ancient Behemoth_39
+  - first:
+      213: 8917828306689611347
+    second: Ancient Behemoth_40
+  - first:
+      213: 4713807507386192091
+    second: Ancient Behemoth_41
+  - first:
+      213: 4947951039217728710
+    second: Ancient Behemoth_42
+  - first:
+      213: -7337697701535479422
+    second: Ancient Behemoth_43
+  - first:
+      213: 7225432627164702198
+    second: Ancient Behemoth_44
+  - first:
+      213: -9133545431800476477
+    second: Ancient Behemoth_45
+  - first:
+      213: -628655553748776029
+    second: Ancient Behemoth_46
+  - first:
+      213: 288403395186925575
+    second: Ancient Behemoth_47
+  - first:
+      213: -7333362189120029789
+    second: Ancient Behemoth_48
+  - first:
+      213: 4610354196302610515
+    second: Ancient Behemoth_49
+  - first:
+      213: -8678244909199832423
+    second: Ancient Behemoth_50
+  - first:
+      213: -3586734327483809165
+    second: Ancient Behemoth_51
+  - first:
+      213: 6165543821594696037
+    second: Ancient Behemoth_52
+  - first:
+      213: -2755871824597646314
+    second: Ancient Behemoth_53
+  - first:
+      213: 6520206954590717597
+    second: Ancient Behemoth_54
+  - first:
+      213: 1513784188227331463
+    second: Ancient Behemoth_55
+  - first:
+      213: 9100830267555842315
+    second: Ancient Behemoth_56
+  - first:
+      213: 5343912880043698530
+    second: Ancient Behemoth_57
+  - first:
+      213: 340842437239474040
+    second: Ancient Behemoth_58
+  - first:
+      213: 4005816277948637453
+    second: Ancient Behemoth_59
+  - first:
+      213: -8100898490934072295
+    second: Ancient Behemoth_60
+  - first:
+      213: -3640642349080136027
+    second: Ancient Behemoth_61
+  - first:
+      213: 644330064450399822
+    second: Ancient Behemoth_62
+  - first:
+      213: 1487710206795233440
+    second: Ancient Behemoth_63
+  - first:
+      213: 446668125558624066
+    second: Ancient Behemoth_64
+  - first:
+      213: 2057841942174648757
+    second: Ancient Behemoth_65
+  - first:
+      213: 8408977137130109406
+    second: Ancient Behemoth_66
+  - first:
+      213: 2011331016500340793
+    second: Ancient Behemoth_67
+  - first:
+      213: 8683148811558136062
+    second: Ancient Behemoth_68
+  - first:
+      213: -6296447261497174579
+    second: Ancient Behemoth_69
+  - first:
+      213: -611069465410620499
+    second: Ancient Behemoth_70
+  - first:
+      213: 6570680438848988064
+    second: Ancient Behemoth_71
+  - first:
+      213: -8056953750510156659
+    second: Ancient Behemoth_72
+  - first:
+      213: 4390899332159835096
+    second: Ancient Behemoth_73
+  - first:
+      213: 2874950320596072058
+    second: Ancient Behemoth_74
+  - first:
+      213: -3297279625490636344
+    second: Ancient Behemoth_75
+  - first:
+      213: -2553254171708233964
+    second: Ancient Behemoth_76
+  - first:
+      213: -7895192537314023733
+    second: Ancient Behemoth_77
+  - first:
+      213: -5274746927729209000
+    second: Ancient Behemoth_78
+  - first:
+      213: -3810982868881392649
+    second: Ancient Behemoth_79
+  - first:
+      213: 8863604860856895471
+    second: Ancient Behemoth_80
+  - first:
+      213: -8203859059806438791
+    second: Ancient Behemoth_81
+  - first:
+      213: 2372899108749709586
+    second: Ancient Behemoth_82
+  - first:
+      213: -992188890324080126
+    second: Ancient Behemoth_83
+  - first:
+      213: 991494547698035754
+    second: Ancient Behemoth_84
+  - first:
+      213: -3321326889932364848
+    second: Ancient Behemoth_85
+  - first:
+      213: -4154405081666886504
+    second: Ancient Behemoth_86
+  - first:
+      213: -4711189929637933735
+    second: Ancient Behemoth_87
+  - first:
+      213: -5238128365910850140
+    second: Ancient Behemoth_88
+  - first:
+      213: 893577769340806290
+    second: Ancient Behemoth_89
+  - first:
+      213: 6629600191359085629
+    second: Ancient Behemoth_90
+  - first:
+      213: -1046079092083602409
+    second: Ancient Behemoth_91
+  - first:
+      213: 2762590985124637749
+    second: Ancient Behemoth_92
+  - first:
+      213: 7217022460791394531
+    second: Ancient Behemoth_93
+  - first:
+      213: 1245259368928887594
+    second: Ancient Behemoth_94
+  - first:
+      213: -4641751741475069675
+    second: Ancient Behemoth_95
+  - first:
+      213: 3248383785905430649
+    second: Ancient Behemoth_96
+  - first:
+      213: 8716350998126456972
+    second: Ancient Behemoth_97
+  - first:
+      213: 1238966878195526652
+    second: Ancient Behemoth_98
+  - first:
+      213: 5747118171067570641
+    second: Ancient Behemoth_99
+  - first:
+      213: 7230869881228030843
+    second: Ancient Behemoth_100
+  - first:
+      213: -769154899218752896
+    second: Ancient Behemoth_101
+  - first:
+      213: -2921240861468814954
+    second: Ancient Behemoth_102
+  - first:
+      213: 7708439644777423380
+    second: Ancient Behemoth_103
+  - first:
+      213: -6850878799943563018
+    second: Ancient Behemoth_104
+  - first:
+      213: -1915066691139708112
+    second: Ancient Behemoth_105
+  - first:
+      213: 6194304432775100295
+    second: Ancient Behemoth_106
+  - first:
+      213: 5531466074499187272
+    second: Ancient Behemoth_107
+  - first:
+      213: -2227088122218816985
+    second: Ancient Behemoth_108
+  - first:
+      213: 4753204380722277455
+    second: Ancient Behemoth_109
+  - first:
+      213: -4581075272239735412
+    second: Ancient Behemoth_110
+  - first:
+      213: -4986140488064886901
+    second: Ancient Behemoth_111
+  - first:
+      213: -3090239542110804668
+    second: Ancient Behemoth_112
+  - first:
+      213: 77889455721121487
+    second: Ancient Behemoth_113
+  - first:
+      213: 2238010523289657266
+    second: Ancient Behemoth_114
+  - first:
+      213: -261481931169272618
+    second: Ancient Behemoth_115
+  - first:
+      213: 4814022444988177779
+    second: Ancient Behemoth_116
+  - first:
+      213: 1245470608649430747
+    second: Ancient Behemoth_117
+  - first:
+      213: 8263959769893534380
+    second: Ancient Behemoth_118
+  - first:
+      213: -6679822880935559230
+    second: Ancient Behemoth_119
+  - first:
+      213: -5576913342663484751
+    second: Ancient Behemoth_120
+  - first:
+      213: 8289492694775176601
+    second: Ancient Behemoth_121
+  - first:
+      213: 7895609022533941112
+    second: Ancient Behemoth_122
+  - first:
+      213: -3723719298565419655
+    second: Ancient Behemoth_123
+  - first:
+      213: -4722277942102875994
+    second: Ancient Behemoth_124
+  - first:
+      213: 2258370833544968125
+    second: Ancient Behemoth_125
+  - first:
+      213: -4233435648286740067
+    second: Ancient Behemoth_126
+  - first:
+      213: -3322110150830019887
+    second: Ancient Behemoth_127
+  - first:
+      213: 3931429456656259020
+    second: Ancient Behemoth_128
+  - first:
+      213: 8131633913102354452
+    second: Ancient Behemoth_129
+  - first:
+      213: 7045363820129668186
+    second: Ancient Behemoth_130
+  - first:
+      213: -6088768770962455513
+    second: Ancient Behemoth_131
+  - first:
+      213: 2089746124903845085
+    second: Ancient Behemoth_132
+  - first:
+      213: 1236944725037449230
+    second: Ancient Behemoth_133
+  - first:
+      213: 4510962357394174279
+    second: Ancient Behemoth_134
+  - first:
+      213: 216303916973441741
+    second: Ancient Behemoth_135
+  - first:
+      213: -6235548451818914410
+    second: Ancient Behemoth_136
+  - first:
+      213: -794175841562173916
+    second: Ancient Behemoth_137
+  - first:
+      213: -7334898745876075923
+    second: Ancient Behemoth_138
+  - first:
+      213: 6722440098901992500
+    second: Ancient Behemoth_139
+  - first:
+      213: 7923734613847104938
+    second: Ancient Behemoth_140
+  - first:
+      213: 4456850991258737243
+    second: Ancient Behemoth_141
+  - first:
+      213: 6874454655015287878
+    second: Ancient Behemoth_142
+  - first:
+      213: -2578474786587684766
+    second: Ancient Behemoth_143
+  - first:
+      213: -6866023849692786128
+    second: Ancient Behemoth_144
+  - first:
+      213: 2060556497081782255
+    second: Ancient Behemoth_145
+  - first:
+      213: 988502053874205825
+    second: Ancient Behemoth_146
+  - first:
+      213: 3811367670744731069
+    second: Ancient Behemoth_147
+  - first:
+      213: 337127845894810726
+    second: Ancient Behemoth_148
+  - first:
+      213: -1443222725703486942
+    second: Ancient Behemoth_149
+  - first:
+      213: 7677170947309168320
+    second: Ancient Behemoth_150
+  - first:
+      213: -8587155247488315901
+    second: Ancient Behemoth_151
+  - first:
+      213: -1950280223232742955
+    second: Ancient Behemoth_152
+  - first:
+      213: -4987348314249763359
+    second: Ancient Behemoth_153
+  - first:
+      213: 7364381118218777319
+    second: Ancient Behemoth_154
+  - first:
+      213: 4585487061307565977
+    second: Ancient Behemoth_155
+  - first:
+      213: -2546370539292639498
+    second: Ancient Behemoth_156
+  - first:
+      213: 3833827806751069326
+    second: Ancient Behemoth_157
+  - first:
+      213: 4331940151734674426
+    second: Ancient Behemoth_158
+  - first:
+      213: -944373743922262631
+    second: Ancient Behemoth_159
+  - first:
+      213: 6648032685867851834
+    second: Ancient Behemoth_160
+  - first:
+      213: -2501107341204268106
+    second: Ancient Behemoth_161
+  - first:
+      213: -8845249908101139903
+    second: Ancient Behemoth_162
+  - first:
+      213: 7276681500475339557
+    second: Ancient Behemoth_163
+  - first:
+      213: 6656188878722168223
+    second: Ancient Behemoth_164
+  - first:
+      213: -1420756531501425944
+    second: Ancient Behemoth_165
+  - first:
+      213: -5169920739468168559
+    second: Ancient Behemoth_166
+  - first:
+      213: 3690289342367146590
+    second: Ancient Behemoth_167
+  - first:
+      213: 7471839860687528722
+    second: Ancient Behemoth_168
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ancient Behemoth_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1316
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99279e21c72ca60800000000000000
+      internalID: 7692847534170085846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1316
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38768037e5a0bdb0800000000000000
+      internalID: -4778136792269948865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1316
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a918caa5975867f80800000000000000
+      internalID: -8109147322775207526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1317
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffddd1f8cb1fab450800000000000000
+      internalID: 6105458037011373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1319
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6441eb2536a0ae290800000000000000
+      internalID: -7860458777915550650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1321
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdf306921953d390800000000000000
+      internalID: -7794788593687069242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1321
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f9842309fd6ca0800000000000000
+      internalID: -6021883334831246939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1321
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb933777f6daa150800000000000000
+      internalID: 5884752221458111437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1117
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7185cd8d3cd820800000000000000
+      internalID: 2944295935506742456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1119
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ecef464ffa5aa0800000000000000
+      internalID: -6171339661904123556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1120
+        width: 132
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0258f2aa4d93f4730800000000000000
+      internalID: 3985467780797269280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1118
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d7d21536d46ae0800000000000000
+      internalID: -1556884047725603690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_12
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1118
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a7de8701ff91da0800000000000000
+      internalID: -5973462984516863481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1121
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37550c89b9e6b4b0800000000000000
+      internalID: -5424891717993801926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_14
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1124
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f37be7d1e53160800000000000000
+      internalID: 7004753112929138002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1121
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e41f0250a674c40800000000000000
+      internalID: 5496478440489045534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_16
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1117
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2349e1897de180800000000000000
+      internalID: -9084471274465187186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_17
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1117
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d698e96de4f320800000000000000
+      internalID: 2590956724774424855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_18
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1117
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693508e504f56be90800000000000000
+      internalID: -7010311039887584362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 884
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db826dfeedd5380800000000000000
+      internalID: -8980776960235356822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 884
+        width: 117
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb92ae1cdbf3f500800000000000000
+      internalID: 428963312355679230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 884
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2337d2b4d82300800000000000000
+      internalID: 227665645761932650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 884
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8ac68814cc5ad10800000000000000
+      internalID: 2136338180090931372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_23
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 884
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a461bb3aee64a550800000000000000
+      internalID: 6171179341707306150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 884
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe782dc8969827820800000000000000
+      internalID: 2914542995289311215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 675
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16f7d76a5bd32d0800000000000000
+      internalID: -3297279625490636344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_76
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 675
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417eb0acbd4019cd0800000000000000
+      internalID: -2553254171708233964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_77
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 675
+        width: 137
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc62514c734ae6290800000000000000
+      internalID: -7895192537314023733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_78
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 663
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511e94bd955cc6b0800000000000000
+      internalID: -5274746927729209000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_79
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 667
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb93fa54bac1bc0800000000000000
+      internalID: -3810982868881392649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_80
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 668
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70dc8d8a9d10b70800000000000000
+      internalID: 8863604860856895471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_81
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 735
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afdd8a6a9062e80800000000000000
+      internalID: -8203859059806438791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_82
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 735
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2111ed0da2b3ee020800000000000000
+      internalID: 2372899108749709586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_83
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 735
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ae42a06790b32f0800000000000000
+      internalID: -992188890324080126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 476
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2748b90f72cd00800000000000000
+      internalID: 991494547698035754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 476
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e0ae6ac648e1d0800000000000000
+      internalID: -3321326889932364848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_86
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 458
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ea26d6969856c0800000000000000
+      internalID: -4154405081666886504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 451
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d888e48bd7e9eb0800000000000000
+      internalID: -4711189929637933735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_88
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 460
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a58cf5010e6e47b0800000000000000
+      internalID: -5238128365910850140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_89
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 464
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294aeb03f30a66c00800000000000000
+      internalID: 893577769340806290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_131
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 247
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7248a4fff09508ba0800000000000000
+      internalID: -6088768770962455513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_132
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc84a55705400d10800000000000000
+      internalID: 2089746124903845085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_133
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 244
+        width: 169
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0086ae7ca28a2110800000000000000
+      internalID: 1236944725037449230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_134
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 237
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74173ab2d582a9e30800000000000000
+      internalID: 4510962357394174279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 236
+        width: 114
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc24ab63447700300800000000000000
+      internalID: 216303916973441741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_136
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 237
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69db89d68b1e679a0800000000000000
+      internalID: -6235548451818914410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_137
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 260
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5d72a7458af4f0800000000000000
+      internalID: -794175841562173916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_138
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 260
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a299cd374353a90800000000000000
+      internalID: -7334898745876075923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_139
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 263
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43425e627a7ea4d50800000000000000
+      internalID: 6722440098901992500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_140
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26
+        width: 166
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd2d846a2c6fd60800000000000000
+      internalID: 7923734613847104938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_141
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 22
+        width: 122
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a13d6fc5ae9dd30800000000000000
+      internalID: 4456850991258737243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_143
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 18
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d32bc7da673cd0800000000000000
+      internalID: -2578474786587684766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_146
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 60
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848ae4716dd7bd00800000000000000
+      internalID: 988502053874205825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_147
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 64
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc52bf3b2b4e430800000000000000
+      internalID: 3811367670744731069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_148
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 26
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce37a5df7bda400800000000000000
+      internalID: 337127845894810726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_158
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 30
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a56ccd942e1c30800000000000000
+      internalID: 4331940151734674426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_159
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 92
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dce4a5519e4e2f0800000000000000
+      internalID: -944373743922262631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_165
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 65
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9a8b4675784ce0800000000000000
+      internalID: -1420756531501425944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_166
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 31
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19233179a70c048b0800000000000000
+      internalID: -5169920739468168559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient Behemoth_167
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 31
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52243ada9a863330800000000000000
+      internalID: 3690289342367146590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
